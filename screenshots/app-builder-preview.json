@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Mohomed Ijilaan — Website Developer",
+      "hasCanvas": false,
+      "bodyTextLen": 5167,
+      "bodyTextHash": "927c13bc6833580ef0c75468dc6fbebc04323c71f28d3e8098d9611e88afbbbc",
+      "bodyTextPrefix": "Skip to content MI Work About Skills Experience Contact CV HEY, ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Mohomed Ijilaan — Website Developer",
+      "hasCanvas": false,
+      "bodyTextLen": 5176,
+      "bodyTextHash": "1fc11d259f7f96e99addf128b8458fbf2e0ae081a276e7bfe0b8152210e698cf",
+      "bodyTextPrefix": "Skip to content MI Work About Skills Experience Contact Download",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
